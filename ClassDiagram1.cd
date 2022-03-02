@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Hospital_Management_System_Application.AptReport" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAEAAACAAAACAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>AptReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Management_System_Application.CR1" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAJAAAQAAAAAAAIAAAAAAAAAAAACAABAAAABAA=</HashCode>
+      <FileName>CR1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Management_System_Application.CachedCR1" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CR1.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Hospital_Management_System_Application.Form1" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IBgAAgQAkCAAEBAAEkCAEAkWADAAaQiAINUBAQBlAQA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Management_System_Application.Form10" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECAQAQAAADAIAAKBAACEAAkSQAAAQAAAYIAAAASAAAQ=</HashCode>
+      <FileName>Form10.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Management_System_Application.Form11" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>E4ABgAAAEDCIAFGAAACEABkSACAgwBIiIeAAAIaAAQY=</HashCode>
+      <FileName>Form11.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Management_System_Application.Form12" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAACAAAAAAAACAAAkSAAAYQAAAIPAAAAAAAAA=</HashCode>
+      <FileName>Form12.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Management_System_Application.Form13" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACQACAAAAACAgAACAAAAAAAAQAAAAAAQAAA=</HashCode>
+      <FileName>Form13.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Management_System_Application.Form2" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UyCQgJggEDMYAFKTIqCECXkSiCAkwjYiJtAAFQ4AgSY=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Management_System_Application.Form3" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UiCQiRCQEjCoBVKTIAiEBXkSwSAkwjIiZsAABQYAgQY=</HashCode>
+      <FileName>Form3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Management_System_Application.Form4" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UnCQgBEAErD/BVKDIACMIXkSACAEwzIiJsBABAYAgRY=</HashCode>
+      <FileName>Form4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Management_System_Application.Form7" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAECQBABAAAACiAAmWQEBIABAAIEAAgQBAEAg=</HashCode>
+      <FileName>Form7.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Management_System_Application.Form8" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQABAABBAKBAABAAA0iAgAkSAAAIAAAEIEAAgAAAgEA=</HashCode>
+      <FileName>Form8.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Management_System_Application.Form9" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EWAQAAAAADAIAAKBAACECAkSAAAAQAAAIJAEAAwAAAQ=</HashCode>
+      <FileName>Form9.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Management_System_Application.HospitalDataSet" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAmEAAAwAAMALCBIAAQAMAQAgDQRwAQAAAAAEADBA=</HashCode>
+      <FileName>HospitalDataSet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Management_System_Application.patientCR" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAIAEAAACAAAACAAIIAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>patientCR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Management_System_Application.PatientReport" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAJAAAQAAAAAAAIAAAAAAAAAAAACAABAAAABAA=</HashCode>
+      <FileName>PatientReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Management_System_Application.CachedPatientReport" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PatientReport.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Hospital_Management_System_Application.Program" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Management_System_Application.HospitalDataSetTableAdapters.AppointmentTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+      <FileName>HospitalDataSet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Management_System_Application.HospitalDataSetTableAdapters.DoctorTableAdapter" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Management_System_Application.HospitalDataSetTableAdapters.MedicineTableAdapter" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Management_System_Application.HospitalDataSetTableAdapters.NurseTableAdapter" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Management_System_Application.HospitalDataSetTableAdapters.PatientTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Management_System_Application.HospitalDataSetTableAdapters.PaymentTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Management_System_Application.HospitalDataSetTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQBAACBAAARABAEBIAAAMAAgAAACwEAIAAQIARAABEQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Management_System_Application.Properties.Resources" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_Management_System_Application.Properties.Settings" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIQAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
